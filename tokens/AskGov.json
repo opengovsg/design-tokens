@@ -1,0 +1,10 @@
+{
+  "brand": {
+    "primary": {
+      "500": {
+        "value": "#8354a3",
+        "type": "color"
+      }
+    }
+  }
+}
