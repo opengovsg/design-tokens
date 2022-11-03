@@ -81,10 +81,6 @@
     "type": "borderRadius",
     "description": "50%"
   },
-  "test": {
-    "value": "2x10",
-    "type": "sizing"
-  },
   "blue": {
     "50": {
       "value": "#F7F9FE",

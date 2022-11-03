@@ -5,13 +5,10 @@
     "selectedTokenSets": {
       "global": "enabled",
       "Form": "disabled",
-      "Redeem": "disabled",
-      "AskGov": "disabled",
       "Vault": "disabled",
       "ScamShield": "disabled",
       "Isomer": "disabled",
-      "Postman": "disabled",
-      "PHAS": "disabled"
+      "Postman": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -20,14 +17,11 @@
     "name": "formsg",
     "selectedTokenSets": {
       "global": "source",
-      "Form": "enabled",
-      "Redeem": "disabled",
-      "AskGov": "disabled",
+      "Form": "disabled",
       "Vault": "disabled",
       "ScamShield": "disabled",
       "Isomer": "disabled",
-      "Postman": "disabled",
-      "PHAS": "disabled"
+      "Postman": "disabled"
     },
     "$figmaStyleReferences": {
       "brand.primary.50": "S:5e2df520dfed9cb98030a39cd5f5095bf2b52343,",

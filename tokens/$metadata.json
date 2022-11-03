@@ -2,12 +2,9 @@
   "tokenSetOrder": [
     "global",
     "Form",
-    "Redeem",
-    "AskGov",
     "Vault",
     "ScamShield",
     "Isomer",
-    "Postman",
-    "PHAS"
+    "Postman"
   ]
 }
