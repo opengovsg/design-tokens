@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "562af8166347dbdf84f9bdd165ba74b2a8e19940",
+    "name": "ogp",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Form": "disabled",
+      "Redeem": "disabled",
+      "AskGov": "disabled",
+      "Vault": "disabled",
+      "ScamShield": "disabled",
+      "Isomer": "disabled",
+      "Postman": "disabled",
+      "PHAS": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3d592f72e750d84d91b2caf4e9cbd94d1ed51096",
+    "name": "formsg",
+    "selectedTokenSets": {
+      "global": "source",
+      "Form": "enabled",
+      "Redeem": "disabled",
+      "AskGov": "disabled",
+      "Vault": "disabled",
+      "ScamShield": "disabled",
+      "Isomer": "disabled",
+      "Postman": "disabled",
+      "PHAS": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "brand.primary.50": "S:5e2df520dfed9cb98030a39cd5f5095bf2b52343,",
+      "brand.primary.100": "S:ae0311abcebff0e887a4f6b0293412954796178b,",
+      "brand.primary.200": "S:0fc249c37f94fbd248561170e7354bc78f456fa7,",
+      "brand.primary.300": "S:a7662ec546c65cfe4ef2d3dce4d31f6083cd6f51,",
+      "brand.primary.400": "S:46b7c16657e8f8a7d67d5a25e87549bbb5cc7bf7,",
+      "brand.primary.500": "S:46d9fb7a878edac38a47be237338e2a15c4117c7,",
+      "brand.primary.600": "S:efa87cb7d82fcd40bbef622695bb8ada1ed5ce43,",
+      "brand.primary.700": "S:7c99fd4e64e4ec78755afed773b9c4689b52cdd0,",
+      "brand.primary.800": "S:f1c99ce0b31fa95190912a5d722178e595b1779e,",
+      "brand.primary.900": "S:7496bd9c56879db5c06e51a1452ad08b705b1634,",
+      "brand.secondary.50": "S:98976b547000505bb2598afd0cbdc1ee4777aad5,",
+      "brand.secondary.100": "S:1178fa2d2614ea8b20a5baef01495fed3a2d1eb2,",
+      "brand.secondary.200": "S:04544a7c00c9e05603de43ec304ca9d326d7e5fb,",
+      "brand.secondary.300": "S:2c6f6028e2c0f147e191625e817783b715cee245,",
+      "brand.secondary.400": "S:a5388ece22009f16403dfeac0d5021de2e05a171,",
+      "brand.secondary.500": "S:c6a23c14c77d5cc85bbbf9bec1149121a3c4b867,",
+      "brand.secondary.600": "S:a9a272b518225bb9d008bad1a5f37b0845d14dd9,",
+      "brand.secondary.700": "S:222ca7a7600a42320a4fded4580db2d66832153f,",
+      "brand.secondary.800": "S:bfb1d4ebe7edcd6683a0a4adcf2f8d07b263564a,",
+      "brand.secondary.900": "S:54d987ecd684402d3fa718257c7151039381a710,",
+      "blue.50": "S:eef124464c611e86fe4f967eedccc7590bc28199,",
+      "blue.100": "S:bad90b314dac5e44403fc597f622ad2a5641c3bd,",
+      "blue.200": "S:86046f50b022b061cc669dd5d444f16d8c609ee5,",
+      "blue.300": "S:aa1f1b671c1d425e24c160d6f39865e32e6b4189,",
+      "blue.400": "S:3236c7a36a2b4e70b89b309cafa5cb10b97b4646,",
+      "blue.500": "S:14b0ca668b50fecf3dce32740fbcd445d360a42b,",
+      "blue.600": "S:7c4d44afd7c6cc8f68f8f081c385cab3f4e99f1d,",
+      "blue.700": "S:a93d3b7cbd4d1bbd872ec461bab18186ddeda8d2,",
+      "blue.800": "S:4564483daadb5ed8ec5d1ddbd3f5f750b7211212,",
+      "blue.900": "S:cf12be8b5c6730a121ddfbe3cd02ee74a57f5d48,"
+    }
+  }
+]
