@@ -91,12 +91,12 @@
         "description": "19.98:1"
       },
       "100": {
-        "value": "#E1EBFD",
+        "value": "#CBDCFC",
         "type": "color",
         "description": "17.4:1"
       },
       "200": {
-        "value": "#ACC7FA",
+        "value": "#A1C0F9",
         "type": "color",
         "description": "11.36:1"
       },
@@ -106,32 +106,32 @@
         "description": "8.07:1"
       },
       "400": {
-        "value": "#568DF4",
+        "value": "#4280F3",
         "type": "color",
         "description": "5.58:1"
       },
       "500": {
-        "value": "#276EF1",
+        "value": "#1060F0",
         "type": "color",
         "description": "5.58:1"
       },
       "600": {
-        "value": "#0D4FCA",
+        "value": "#0C4CC1",
         "type": "color",
         "description": "7.79:1"
       },
       "700": {
-        "value": "#0B44AC",
+        "value": "#0A3B96",
         "type": "color",
         "description": "9.25:1"
       },
       "800": {
-        "value": "#093890",
+        "value": "#072B6B",
         "type": "color",
         "description": "10.97:1"
       },
       "900": {
-        "value": "#072A69",
+        "value": "#041639",
         "type": "color",
         "description": "13.66:1"
       }
@@ -292,58 +292,6 @@
         "description": "13.48:1"
       }
     },
-    "slate": {
-      "50": {
-        "value": "#f8f9fa",
-        "type": "color",
-        "description": "19.92:1"
-      },
-      "100": {
-        "value": "#e9eaee",
-        "type": "color",
-        "description": "17.46:1"
-      },
-      "200": {
-        "value": "#babecb",
-        "type": "color",
-        "description": "11.31 : 1"
-      },
-      "300": {
-        "value": "#9aa0b3",
-        "type": "color",
-        "description": "8.05 : 1"
-      },
-      "400": {
-        "value": "#7b849c",
-        "type": "color",
-        "description": "5.62:1"
-      },
-      "500": {
-        "value": "#5d6785",
-        "type": "color",
-        "description": "5.6:1"
-      },
-      "600": {
-        "value": "#465173",
-        "type": "color",
-        "description": "7.82:1"
-      },
-      "700": {
-        "value": "#3c4764",
-        "type": "color",
-        "description": "9.22:1"
-      },
-      "800": {
-        "value": "#333c56",
-        "type": "color",
-        "description": "10.92:1"
-      },
-      "900": {
-        "value": "#272d41",
-        "type": "color",
-        "description": "13.65:1"
-      }
-    },
     "grey": {
       "50": {
         "value": "#F8F9F9",
@@ -351,47 +299,47 @@
         "description": "19.94:1"
       },
       "100": {
-        "value": "#DBDDE1",
+        "value": "#D9DBDF",
         "type": "color",
         "description": "17.29:1"
       },
       "200": {
-        "value": "#BFC2C8",
+        "value": "#BCBFC7",
         "type": "color",
         "description": "11.41:1"
       },
       "300": {
-        "value": "#A0A4AD",
+        "value": "#9CA0AC",
         "type": "color",
         "description": "8.03:1"
       },
       "400": {
-        "value": "#838894",
+        "value": "#7E8493",
         "type": "color",
         "description": "5.62:1"
       },
       "500": {
-        "value": "#666C7A",
+        "value": "#666B79",
         "type": "color",
         "description": "5.57:1"
       },
       "600": {
-        "value": "#505660",
+        "value": "#515561",
         "type": "color",
         "description": "7.69:1"
       },
       "700": {
-        "value": "#454953",
+        "value": "#3E424B",
         "type": "color",
         "description": "9.29:1"
       },
       "800": {
-        "value": "#3A3E46",
+        "value": "#2C2F35",
         "type": "color",
         "description": "10.86:1"
       },
       "900": {
-        "value": "#2C2E34",
+        "value": "#17181B",
         "type": "color",
         "description": "13.57:1"
       }
@@ -406,6 +354,10 @@
         "value": "#000000",
         "type": "color",
         "description": "21 : 1, AAA"
+      },
+      "darkgray": {
+        "value": "#111111",
+        "type": "color"
       }
     },
     "brand": {
@@ -463,52 +415,52 @@
       },
       "secondary": {
         "50": {
-          "value": "{color.slate.50}",
+          "value": "{color.grey.50}",
           "type": "color",
           "description": "19.92:1"
         },
         "100": {
-          "value": "{color.slate.100}",
+          "value": "{color.grey.100}",
           "type": "color",
           "description": "17.46:1"
         },
         "200": {
-          "value": "{color.slate.200}",
+          "value": "{color.grey.200}",
           "type": "color",
           "description": "11.31 : 1"
         },
         "300": {
-          "value": "{color.slate.300}",
+          "value": "{color.grey.300}",
           "type": "color",
           "description": "8.05 : 1"
         },
         "400": {
-          "value": "{color.slate.400}",
+          "value": "{color.grey.400}",
           "type": "color",
           "description": "5.62:1"
         },
         "500": {
-          "value": "{color.slate.500}",
+          "value": "{color.grey.500}",
           "type": "color",
           "description": "5.6:1"
         },
         "600": {
-          "value": "{color.slate.600}",
+          "value": "{color.grey.600}",
           "type": "color",
           "description": "7.82:1"
         },
         "700": {
-          "value": "{color.slate.700}",
+          "value": "{color.grey.700}",
           "type": "color",
           "description": "9.22:1"
         },
         "800": {
-          "value": "{color.slate.800}",
+          "value": "{color.grey.800}",
           "type": "color",
           "description": "10.92:1"
         },
         "900": {
-          "value": "{color.slate.900}",
+          "value": "{color.grey.900}",
           "type": "color",
           "description": "13.65:1"
         }
@@ -568,27 +520,27 @@
     "base": {
       "canvas": {
         "default": {
-          "value": "{color.standard.white}",
+          "value": "{color.standard.darkgray}",
           "type": "color",
           "description": "Default page background"
         },
         "alt": {
-          "value": "{color.grey.50}",
+          "value": "{color.grey.900}",
           "type": "color",
           "description": "Alternative page background"
         },
         "backdrop": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.800}",
           "type": "color",
           "description": "A backdrop used under other canvasses to provide more depth"
         },
         "brandLight": {
-          "value": "{color.brand.primary.50}",
+          "value": "{color.brand.primary.900}",
           "type": "color",
           "description": "Lighter variant of the background tinted to the brand’s primary colour "
         },
         "inverse": {
-          "value": "{color.brand.secondary.900}",
+          "value": "{color.brand.secondary.50}",
           "type": "color",
           "description": "Reversed background"
         },
@@ -600,12 +552,12 @@
       },
       "content": {
         "default": {
-          "value": "{color.grey.700}",
+          "value": "{color.grey.50}",
           "type": "color",
           "description": "Body copy"
         },
         "dark": {
-          "value": "{color.grey.900}",
+          "value": "{color.grey.100}",
           "type": "color",
           "description": "Headers\nInput labels"
         },
@@ -615,29 +567,29 @@
           "description": "Descriptors"
         },
         "brand": {
-          "value": "{color.brand.primary.500}",
+          "value": "{color.brand.primary.400}",
           "type": "color",
           "description": "Used sparingly to highlight areas of the interface"
         },
         "inverse": {
-          "value": "{color.standard.white}",
+          "value": "{color.standard.darkgray}",
           "type": "color",
           "description": "Inverse colour to provide sufficient contrast on strong darker backgrounds"
         }
       },
       "divider": {
         "light": {
-          "value": "{color.grey.50}",
+          "value": "{color.grey.800}",
           "type": "color",
           "description": "Lightest divider colour\nDefault on white backgrounds"
         },
         "medium": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.700}",
           "type": "color",
           "description": "Medium divider colour\nDefault on light grey backgrounds\n"
         },
         "dark": {
-          "value": "{color.grey.200}",
+          "value": "{color.grey.600}",
           "type": "color",
           "description": "Darkest divider colour\nUsed when more differentiation is required\nUsed as the default border for input fields"
         },
@@ -647,7 +599,7 @@
           "description": "Colour of the inverse border colour"
         },
         "brand": {
-          "value": "{color.brand.primary.500}",
+          "value": "{color.brand.primary.400}",
           "type": "color",
           "description": "Used when brand differentiation is required. Tabs, vertical tabs, side navs."
         }
@@ -656,34 +608,34 @@
     "interaction": {
       "main": {
         "default": {
-          "value": "{color.brand.primary.500}",
+          "value": "{color.brand.primary.400}",
           "type": "color",
           "description": "Primary interactive colour for texts, borders and background on canvas.default"
         },
         "hover": {
-          "value": "{color.brand.primary.600}",
+          "value": "{color.brand.primary.300}",
           "type": "color",
           "description": "Background of a primary interaction when hovered over"
         },
         "active": {
-          "value": "{color.brand.primary.700}",
+          "value": "{color.brand.primary.200}",
           "type": "color",
           "description": "Background of a primary interaction when pressed"
         }
       },
       "main-subtle": {
         "default": {
-          "value": "{color.brand.primary.50}",
+          "value": "{color.brand.primary.900}",
           "type": "color",
           "description": "Solid light background based on the main interactive colour"
         },
         "hover": {
-          "value": "{color.brand.primary.100}",
+          "value": "{color.brand.primary.800}",
           "type": "color",
           "description": "interaction.main-light.default in a hover state"
         },
         "active": {
-          "value": "{color.brand.primary.200}",
+          "value": "{color.brand.primary.700}",
           "type": "color",
           "description": "interaction.main-light.default when pressed"
         }
@@ -695,148 +647,148 @@
           "description": "Secondary interactive colour for texts, borders and background on canvas-default"
         },
         "hover": {
-          "value": "{color.brand.secondary.600}",
+          "value": "{color.brand.secondary.400}",
           "type": "color",
           "description": "Background of a secondary interaction when selected"
         },
         "active": {
-          "value": "{color.brand.secondary.700}",
+          "value": "{color.brand.secondary.300}",
           "type": "color",
           "description": "Background of a secondary interaction when selected"
         }
       },
       "sub-subtle": {
         "default": {
-          "value": "{color.brand.secondary.50}",
+          "value": "{color.brand.secondary.900}",
           "type": "color",
           "description": "Light background of a secondary interaction"
         },
         "hover": {
-          "value": "{color.brand.secondary.100}",
+          "value": "{color.brand.secondary.800}",
           "type": "color",
           "description": "Light background of a secondary interaction when hovering"
         },
         "active": {
-          "value": "{color.brand.secondary.200}",
+          "value": "{color.brand.secondary.700}",
           "type": "color",
           "description": "Light background of a secondary interaction when pressed"
         }
       },
       "critical": {
         "default": {
-          "value": "{color.red.500}",
+          "value": "{color.red.400}",
           "type": "color",
           "description": "Danger colour for texts, borders and background"
         },
         "hover": {
-          "value": "{color.red.600}",
+          "value": "{color.red.300}",
           "type": "color",
           "description": "Background and borders using critical-default when hovered over"
         },
         "active": {
-          "value": "{color.red.700}",
+          "value": "{color.red.200}",
           "type": "color",
           "description": "Background and borders using critical-default when pressed"
         }
       },
       "critical-subtle": {
         "default": {
-          "value": "{color.red.50}",
+          "value": "{color.red.900}",
           "type": "color",
           "description": "Light critical background"
         },
         "hover": {
-          "value": "{color.red.100}",
+          "value": "{color.red.800}",
           "type": "color",
           "description": "Light critical background when hovered over"
         },
         "active": {
-          "value": "{color.red.200}",
+          "value": "{color.red.700}",
           "type": "color",
           "description": "Light critical background when pressed"
         }
       },
       "warning": {
         "default": {
-          "value": "{color.yellow.100}",
+          "value": "{color.yellow.200}",
           "type": "color",
           "description": "Warning background. Yellow is too light to be used for text colour, so this can only be used for background and border."
         },
         "hover": {
-          "value": "{color.yellow.200}",
+          "value": "{color.yellow.100}",
           "type": "color",
           "description": "Warning background when hovered"
         },
         "active": {
-          "value": "{color.yellow.300}",
+          "value": "{color.yellow.50}",
           "type": "color",
           "description": "Warning background when pressed"
         }
       },
       "warning-subtle": {
         "default": {
-          "value": "{color.yellow.50}",
+          "value": "{color.yellow.900}",
           "type": "color",
           "description": "Light warning background"
         },
         "hover": {
-          "value": "{color.yellow.100}",
+          "value": "{color.yellow.800}",
           "type": "color",
           "description": "Light warning background when hovered"
         },
         "active": {
-          "value": "{color.yellow.200}",
+          "value": "{color.yellow.700}",
           "type": "color",
           "description": "Light warning background when pressed"
         }
       },
       "success": {
         "default": {
-          "value": "{color.green.500}",
+          "value": "{color.green.400}",
           "type": "color",
           "description": "Success colour for texts, borders and background"
         },
         "hover": {
-          "value": "{color.green.600}",
+          "value": "{color.green.300}",
           "type": "color",
           "description": "Background and borders using success.default when hovered over"
         },
         "active": {
-          "value": "{color.green.700}",
+          "value": "{color.green.200}",
           "type": "color",
           "description": "Background of success.active when pressed"
         }
       },
       "success-subtle": {
         "default": {
-          "value": "{color.green.50}",
+          "value": "{color.green.900}",
           "type": "color",
           "description": "Light background for success colours"
         },
         "hover": {
-          "value": "{color.green.100}",
+          "value": "{color.green.800}",
           "type": "color",
           "description": "Light background for success colours when hovered"
         },
         "active": {
-          "value": "{color.green.200}",
+          "value": "{color.green.700}",
           "type": "color",
           "description": "Light background for success colours when pressed"
         }
       },
       "neutral-subtle": {
         "default": {
-          "value": "{color.grey.50}",
+          "value": "{color.grey.900}",
           "type": "color",
           "description": "Light background for neutral colours"
         },
         "hover": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.800}",
           "type": "color",
           "description": "Light background for neutral colours on hover"
         },
         "active": {
-          "value": "{color.grey.200}",
+          "value": "{color.grey.700}",
           "type": "color",
           "description": "Light background for neutral colours when pressed"
         }
@@ -844,48 +796,48 @@
       "muted": {
         "main": {
           "hover": {
-            "value": "{color.brand.primary.50}",
+            "value": "{color.brand.secondary.900}",
             "type": "color",
             "description": "muted.main.default when hovering"
           },
           "active": {
-            "value": "{color.brand.primary.100}",
+            "value": "{color.brand.secondary.800}",
             "type": "color",
             "description": "muted.main.default when pressed"
           }
         },
         "sub": {
           "hover": {
-            "value": "{color.brand.secondary.50}",
+            "value": "{color.brand.primary.900}",
             "type": "color",
             "description": "muted.sub.default when hovering"
           },
           "active": {
-            "value": "{color.brand.secondary.100}",
+            "value": "{color.brand.primary.800}",
             "type": "color",
             "description": "muted.sub.default when pressed"
           }
         },
         "critical": {
           "hover": {
-            "value": "{color.red.50}",
+            "value": "{color.red.900}",
             "type": "color",
             "description": "muted.critical.default when hovering"
           },
           "active": {
-            "value": "{color.red.100}",
+            "value": "{color.red.800}",
             "type": "color",
             "description": "muted.critical.default when pressed"
           }
         },
         "neutral": {
           "hover": {
-            "value": "{color.grey.50}",
+            "value": "{color.grey.900}",
             "type": "color",
             "description": "muted-neutral.default when hovered over"
           },
           "active": {
-            "value": "{color.grey.100}",
+            "value": "{color.grey.800}",
             "type": "color",
             "description": "muted-neutral.default when pressed"
           }
@@ -943,64 +895,64 @@
       },
       "support": {
         "unselected": {
-          "value": "{color.grey.300}",
+          "value": "{color.grey.500}",
           "type": "color",
           "description": "To denote unselected regions of the interface. Used for toggles and progress indicators"
         },
         "selected": {
-          "value": "{color.grey.500}",
+          "value": "{color.grey.400}",
           "type": "color",
           "description": "To be used when a neutral tone is preferred to showcase a selected state"
         },
         "unselected-dark": {
-          "value": "{color.grey.500}",
+          "value": "{color.grey.400}",
           "type": "color",
           "description": "Darker variant to denote unselected foreground elements on canvas-default. Used for tabs"
         },
         "disabled": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.900}",
           "type": "color",
           "description": "Fill colour of disabled regions, including inputs"
         },
         "disabled-content": {
-          "value": "{color.grey.300}",
+          "value": "{color.grey.600}",
           "type": "color",
           "description": "Colour of disabled foreground elements on the canvas-default or disabled"
         },
         "placeholder": {
-          "value": "{color.grey.300}",
+          "value": "{color.grey.400}",
           "type": "color",
           "description": "Colour of placeholder foreground elements"
         }
       },
       "links": {
         "default": {
-          "value": "{color.brand.primary.500}",
+          "value": "{color.brand.primary.400}",
           "type": "color",
           "description": "Default colour for links"
         },
         "hover": {
-          "value": "{color.brand.primary.600}",
+          "value": "{color.brand.primary.300}",
           "type": "color",
           "description": "Colour of links when hovered upon"
         },
         "dark-default": {
-          "value": "{color.grey.700}",
+          "value": "{color.grey.50}",
           "type": "color",
           "description": "Default colour for dark links"
         },
         "dark-hover": {
-          "value": "{color.grey.900}",
+          "value": "{color.grey.100}",
           "type": "color",
           "description": "Colour of dark links when hovered upon"
         },
         "inverse-default": {
-          "value": "{color.standard.white}",
+          "value": "{color.grey.800}",
           "type": "color",
           "description": "Default colour of inverse links"
         },
         "inverse-hover": {
-          "value": "{color.grey.100}",
+          "value": "{color.grey.700}",
           "type": "color",
           "description": "Colour of inverse links when hovered upon"
         }
@@ -1009,12 +961,12 @@
     "utility": {
       "feedback": {
         "info": {
-          "value": "{color.blue.500}",
+          "value": "{color.blue.400}",
           "type": "color",
           "description": "Informational feedback colour for texts, borders and background. Can be used for toasts, banners, infoboxes."
         },
         "info-light": {
-          "value": "{color.blue.50}",
+          "value": "{color.blue.900}",
           "type": "color",
           "description": "Light background alternative to feedback.info. Can be used for toasts and infoboxes."
         },
@@ -1024,53 +976,53 @@
           "description": "Warning feedback colour for texts, borders and background. Can be used for toasts, banners, infoboxes."
         },
         "warning-light": {
-          "value": "{color.yellow.50}",
+          "value": "{color.yellow.900}",
           "type": "color",
           "description": "Light background alternative to feedback.warning. Can be used for toasts and infoboxes."
         },
         "success": {
-          "value": "{color.green.500}",
+          "value": "{color.green.400}",
           "type": "color",
           "description": "Success feedback colour for texts, borders and background. Can be used for toasts, banners, infoboxes."
         },
         "success-light": {
-          "value": "{color.green.50}",
+          "value": "{color.green.900}",
           "type": "color",
           "description": "Light background alternative to feedback.success. Can be used for toasts and infoboxes."
         },
         "critical": {
-          "value": "{color.red.500}",
+          "value": "{color.red.400}",
           "type": "color",
           "description": "Critical feedback colour for texts, borders and background. Can be used for toasts, banners, infoboxes."
         },
         "critical-light": {
-          "value": "{color.red.50}",
+          "value": "{color.red.900}",
           "type": "color",
           "description": "Light background alternative to feedback.critical. Can be used for toasts and infoboxes."
         }
       },
       "focus-default": {
-        "value": "{color.blue.500}",
+        "value": "{color.blue.400}",
         "type": "color",
         "description": "Default focus ring over interactive elements of the interface"
       },
       "focus-inverse": {
-        "value": "{color.standard.white}",
+        "value": "{color.standard.darkgray}",
         "type": "color",
         "description": "Inverse focus ring over interactive elements of the inverse interface"
       },
       "input-prefilled": {
-        "value": "{color.yellow.50}",
+        "value": "{color.yellow.900}",
         "type": "color",
         "description": "Background of an input field when prefilled"
       },
       "ui": {
-        "value": "{color.standard.white}",
+        "value": "{color.standard.darkgray}",
         "type": "color",
         "description": "Background of UI elements"
       },
       "ui-clear": {
-        "value": "rgba({color.standard.white},0)",
+        "value": "rgba({color.standard.darkgray},0)",
         "type": "color",
         "description": "Clear transparent background"
       }
@@ -1079,23 +1031,23 @@
   "shadow": {
     "sm": {
       "value": {
-        "color": "#bfbfbf80",
-        "type": "dropShadow",
         "x": "0",
         "y": "0",
         "blur": "10",
-        "spread": "0"
+        "spread": "0",
+        "color": "rgba(16,16,16,0.3)",
+        "type": "dropShadow"
       },
       "type": "boxShadow"
     },
     "md": {
       "value": {
-        "color": "#6868684d",
-        "type": "dropShadow",
         "x": "0",
         "y": "0",
         "blur": "20",
-        "spread": "0"
+        "spread": "0",
+        "color": "rgba(16,16,16,0.5)",
+        "type": "dropShadow"
       },
       "type": "boxShadow"
     }
