@@ -1,0 +1,145 @@
+[
+  {
+    "id": "a97b1654d5a29d51a19fb2ae3e34b16ffebf3955",
+    "name": "Redeem",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Redeem": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3ab6916dba9fa877c2be23073d654159472aa738",
+    "name": "Vault",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Vault": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "be626850282536d9825ca256bc0d6820f29bf9bc",
+    "name": "ScamShield",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "ScamShield": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6adf2f344b7a6d10dc27c91eaa347e3d0f7a0e66",
+    "name": "Isomer",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Isomer": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e7a3442f9ab838e3501ab268224be72243ca69f4",
+    "name": "Postman",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Postman": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "027a613a23373ddd67b489c741e9dcdd885232af",
+    "name": "Care360",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Care360": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d48c4ce1c2e6a116e6f906ff6a40c20355fc09db",
+    "name": "AskGov",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "AskGov": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f110cae1eb01f4441730fbfe0290c21c0811ec99",
+    "name": "Form",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Form": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "924bdd06d40ca8ea928d4e10ea8f3d50bcdd142b",
+    "name": "default",
+    "selectedTokenSets": {
+      "global": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "024ee87f63f60ffdaf993421d83d4a3318950ffd",
+    "name": "hfpg23 forest",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 forest": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "57488b3d96a6587f43d1b3e1cb8639b971a30082",
+    "name": "hfpg23 whale",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 whale": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "625bb7c94c4389ea84ba95f87d519d8b46ebc689",
+    "name": "hfpg23 psl",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 psl": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7d5d26cc98c124897d7c1d4e338847b16e9cc8ee",
+    "name": "hfpg23 jujube",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 jujube": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4f0b9623a0aae89a40daf110e33f3aecde81303c",
+    "name": "hfpg23 BbBear",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 BbBear": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "14b24c4a1025c1e77291f6dea94cf124ff37c83c",
+    "name": "hfpg23 hichew",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 hichew": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "486404a8adedf6b267d2905a94bf085748995c22",
+    "name": "hfpg23 dark",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "hfpg23 dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
